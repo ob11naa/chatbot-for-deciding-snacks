@@ -1,0 +1,4 @@
+# chatbot-for-deciding-snacks
+During short breaks at Juilliard Academy, students often find themselves unsure about their snack choices for the day. To streamline this process and alleviate confusion, we have developed a specialized chatbot dedicated to assisting students in selecting their preferred tuckshop snacks. The available snack options currently include meatpie, donut, gala, and cake, with the potential for additional selections in the upcoming sessions pending approval.
+
+Engaging with the bot is an inviting experience, as it initiates the interaction with a friendly 'Hello,' much like an attendant at a stand. This chatbot, named JA DECIDES, goes beyond mere pleasantries by inquiring about your current mood. Based on your mood selection, the bot then provides personalized snack recommendations or decisions. The range of mood options is currently limited to happy, sad, angry, and tired, with plans for future updates to expand this selection.
